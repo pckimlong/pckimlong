@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Kim</h1>
 
 <p align="center">
-   I'm a full-stack developer specializing in mobile development with the Flutter framework. I love learning and strive to write clean, efficient code. In freelance projects, I ensure apps are stable and well-crafted, creating functional, user-friendly solutions. I value collaboration and enjoy bringing ideas to life through code, dedicated to delivering my best whether starting new projects or improving existing ones.
+   Hi, I'm a full-stack mobile developer (Flutter). Love clean code, learning, and crafting user-friendly apps. Enjoy turning ideas into code and collaborating to deliver high-quality projects.
 </p>
 
 <p align="center">
