@@ -32,7 +32,7 @@ const pckimlong = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -42,9 +42,11 @@ const pckimlong = {
 
 > 📦 666.9 kB Used in GitHub's Storage 
  > 
+> 🏆 966 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 69 Private Repositories 
  > 
@@ -75,17 +77,17 @@ Sunday                   2260 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Dart                     9 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
-YAML                     8 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
-Groovy                   3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-XML                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Dart                     9 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.05 % 
+YAML                     8 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
+Groovy                   2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+XML                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -105,7 +107,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2024 01:35:44 UTC
+ Last Updated on 22/08/2024 01:37:36 UTC
 <!--END_SECTION:waka-->
 
 <!---
