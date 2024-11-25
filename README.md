@@ -32,7 +32,7 @@ const pckimlong = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,7 +40,7 @@ const pckimlong = {
 
 **🐱 My GitHub Data** 
 
-> 📦 678.9 kB Used in GitHub's Storage 
+> 📦 679.0 kB Used in GitHub's Storage 
  > 
 > 🏆 1,464 Contributions in the Year 2024
  > 
@@ -77,14 +77,14 @@ Sunday                   2587 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Dart                     19 hrs 30 mins      █████████████████████████   99.50 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Dart                     20 hrs 5 mins       █████████████████████████   99.51 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 36 mins      █████████████████████████   100.00 % 
+Cursor                   20 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -104,7 +104,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 01:37:29 UTC
+ Last Updated on 25/11/2024 01:37:59 UTC
 <!--END_SECTION:waka-->
 
 <!---
