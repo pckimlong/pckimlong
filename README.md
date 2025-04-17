@@ -42,8 +42,6 @@ const pckimlong = {
 
 > 📦 735.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,172 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -107,7 +105,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2025 01:39:36 UTC
+ Last Updated on 17/04/2025 01:39:03 UTC
 <!--END_SECTION:waka-->
 
 <!---
