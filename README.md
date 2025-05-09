@@ -32,15 +32,15 @@ const pckimlong = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C478%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C483%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 744.2 kB Used in GitHub's Storage 
+> 📦 744.3 kB Used in GitHub's Storage 
  > 
 > 🏆 1,258 Contributions in the Year 2025
  > 
@@ -77,17 +77,17 @@ Sunday                   3047 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Dart                     28 hrs 24 mins      ████████████████████░░░░░   80.12 % 
-SQL                      5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Dart                     29 hrs 18 mins      ████████████████████░░░░░   80.80 % 
+SQL                      5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-Cursor                   35 hrs 27 mins      █████████████████████████   100.00 % 
+Cursor                   36 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      35 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -107,7 +107,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 01:39:34 UTC
+ Last Updated on 09/05/2025 01:39:12 UTC
 <!--END_SECTION:waka-->
 
 <!---
