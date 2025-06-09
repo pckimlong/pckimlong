@@ -32,9 +32,9 @@ const pckimlong = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C553%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.3%20million%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@ const pckimlong = {
 
 > 📦 745.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,411 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,17 +77,17 @@ Sunday                   3141 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Dart                     10 hrs 18 mins      █████████████░░░░░░░░░░░░   50.11 % 
-PHP                      2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Blade Template           2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-YAML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-HTML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Dart                     8 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.03 % 
+PHP                      2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Blade Template           2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+HTML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -107,7 +107,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2025 01:39:51 UTC
+ Last Updated on 09/06/2025 01:40:28 UTC
 <!--END_SECTION:waka-->
 
 <!---
