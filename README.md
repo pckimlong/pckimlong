@@ -42,8 +42,6 @@ const pckimlong = {
 
 > 📦 777.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -107,7 +105,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 01:40:17 UTC
+ Last Updated on 18/06/2025 01:39:58 UTC
 <!--END_SECTION:waka-->
 
 <!---
