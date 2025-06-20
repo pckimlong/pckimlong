@@ -34,7 +34,7 @@ const pckimlong = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C565%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.7%20million%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@ const pckimlong = {
 
 > 📦 777.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 1,418 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,17 +77,17 @@ Sunday                   3141 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Phnom_Penh
 
 💬 Programming Languages: 
-Dart                     4 hrs 41 mins       ████████████████████░░░░░   80.68 % 
-YAML                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Dart                     3 hrs 36 mins       ████████████████████████░   95.46 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -107,7 +107,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2025 01:40:20 UTC
+ Last Updated on 20/06/2025 01:40:25 UTC
 <!--END_SECTION:waka-->
 
 <!---
