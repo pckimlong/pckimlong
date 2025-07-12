@@ -32,7 +32,7 @@ const pckimlong = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C586%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -41,8 +41,6 @@ const pckimlong = {
 **🐱 My GitHub Data** 
 
 > 📦 777.4 kB Used in GitHub's Storage 
- > 
-> 🏆 1,468 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,7 +105,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2025 01:40:13 UTC
+ Last Updated on 12/07/2025 01:40:10 UTC
 <!--END_SECTION:waka-->
 
 <!---
