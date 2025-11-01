@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:inbox@pckimlong.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/pochkimlong/"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@PcKimlong/"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@pckimlong/"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@pckimlong/"><img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
