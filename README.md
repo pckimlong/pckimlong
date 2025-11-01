@@ -5,30 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pochkimlong88@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:inbox@pckimlong.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/pochkimlong/"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@PochKimlong/"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@PcKimlong/"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@pckimlong/"><img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const pckimlong = {
-  pronouns: "He" | "Him",
-  nickname: "Kim",
-  code: ["Dart", "PHP", "JavaScript", "Python"],
-  askMeAbout: ["mobile app dev", "clean code", "tech"],
-  technologies: {
-    mobileApp: {
-      crossPlatform: ["Flutter"]
-    },
-    databases: ["PostgreSQL", "MySQL", "SQLite"],
-    misc: ["Firebase", "Supabase"]
-  },
-  funFact: "There are two ways to write error-free programs; only the third one works."
-};
-```
 ---
 
 [![committers.top badge](https://user-badge.committers.top/cambodia_private/pckimlong.svg)](https://user-badge.committers.top/cambodia_private/pckimlong)
