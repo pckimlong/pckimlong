@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Kim</h1>
 
 <p align="center">
-   I'm a full-stack mobile developer (Flutter). Love clean code, learning, and crafting user-friendly apps. Enjoy turning ideas into code and collaborating to deliver high-quality projects.
+   I'm a full-stack mobile developer (Flutter focused). Love clean code, learning, and crafting user-friendly apps. Enjoy turning ideas into code and collaborating to deliver high-quality projects.
 </p>
 
 <p align="center">
