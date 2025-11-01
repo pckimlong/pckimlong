@@ -31,7 +31,7 @@ const pckimlong = {
 ```
 ---
 
-[![committers.top badge](https://user-badge.committers.top/cambodia_private/USERNAME.svg)](https://user-badge.committers.top/cambodia_private/pckimlong)
+[![committers.top badge](https://user-badge.committers.top/cambodia_private/pckimlong.svg)](https://user-badge.committers.top/cambodia_private/pckimlong)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C281%20hrs%2022%20mins-blue)
