@@ -16,7 +16,7 @@
 [![committers.top badge](https://user-badge.committers.top/cambodia_private/pckimlong.svg)](https://user-badge.committers.top/cambodia_private/pckimlong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.9%20million%20lines%20of%20code-blue)
 
@@ -57,15 +57,15 @@ Sunday                   4748 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     5 hrs 41 mins       ████████████████░░░░░░░░░   63.00 % 
-Other                    2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Dart                     5 hrs 6 mins        ██████████████████░░░░░░░   72.89 % 
+Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 34 mins       ██████████████████░░░░░░░   72.82 % 
-Claude Code              2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+VS Code                  5 hrs 45 mins       █████████████████████░░░░   82.37 % 
+Claude Code              1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -85,7 +85,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2025 01:42:29 UTC
+ Last Updated on 15/11/2025 01:45:18 UTC
 <!--END_SECTION:waka-->
 
 <!---
