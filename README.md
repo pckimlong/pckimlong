@@ -16,6 +16,8 @@
 [![committers.top badge](https://user-badge.committers.top/cambodia_private/pckimlong.svg)](https://user-badge.committers.top/cambodia_private/pckimlong)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C333%20hrs%207%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -55,15 +57,13 @@ Sunday                   4748 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     4 hrs 18 mins       ██████████████████░░░░░░░   70.93 % 
-Other                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Dart                     2 hrs 3 mins        ██████████████████░░░░░░░   70.50 % 
+Other                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       ████████████████████░░░░░   81.85 % 
-Claude Code              1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+VS Code                  2 hrs 19 mins       ████████████████████░░░░░   79.95 % 
+Claude Code              35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -83,7 +83,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 01:42:27 UTC
+ Last Updated on 17/11/2025 01:46:23 UTC
 <!--END_SECTION:waka-->
 
 <!---
