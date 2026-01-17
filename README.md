@@ -16,7 +16,7 @@
 [![committers.top badge](https://user-badge.committers.top/cambodia_private/pckimlong.svg)](https://user-badge.committers.top/cambodia_private/pckimlong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C651%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C653%20hrs%202%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,11 +55,11 @@ Sunday                   5957 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     10 hrs 17 mins      ██████████████████████░░░   88.31 % 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Dart                     9 hrs 44 mins       ██████████████████████░░░   87.73 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -79,7 +79,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2026 01:45:13 UTC
+ Last Updated on 17/01/2026 01:44:58 UTC
 <!--END_SECTION:waka-->
 
 <!---
