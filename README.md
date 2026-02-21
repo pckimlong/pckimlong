@@ -16,7 +16,7 @@
 [![committers.top badge](https://user-badge.committers.top/cambodia_private/pckimlong.svg)](https://user-badge.committers.top/cambodia_private/pckimlong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C709%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C710%20hrs%2056%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,11 +55,11 @@ Sunday                   6149 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     16 hrs 26 mins      ██████████████████████░░░   89.65 % 
-SQL                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-PHP                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Dart                     14 hrs 4 mins       ██████████████████████░░░   86.69 % 
+SQL                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -79,7 +79,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 01:47:47 UTC
+ Last Updated on 21/02/2026 01:50:26 UTC
 <!--END_SECTION:waka-->
 
 <!---
