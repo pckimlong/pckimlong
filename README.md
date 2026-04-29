@@ -13,8 +13,6 @@
 
 ---
 
-[![committers.top badge](https://user-badge.committers.top/cambodia_private/pckimlong.svg)](https://user-badge.committers.top/cambodia_private/pckimlong)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C029%20hrs%205%20mins-blue?style=flat)
 
