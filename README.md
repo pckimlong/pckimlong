@@ -14,13 +14,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C031%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C035%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 695.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,072 Contributions in the Year 2026
+> 🏆 1,073 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,11 +53,11 @@ Sunday                   8814 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Other                    5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-PHP                      3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Blade Template           1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Dart                     7 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.37 % 
+Other                    5 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+PHP                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -77,7 +77,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 05:03:28 UTC
+ Last Updated on 01/05/2026 05:21:37 UTC
 <!--END_SECTION:waka-->
 
 <!---
