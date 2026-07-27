@@ -18,9 +18,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 739.0 kB Used in GitHub's Storage 
+> 📦 739.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,955 Contributions in the Year 2026
+> 🏆 1,959 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -32,8 +32,8 @@
 
 ```text
 🌞 Morning                14734 commits       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-🌆 Daytime                17712 commits       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-🌃 Evening                22206 commits       █████████░░░░░░░░░░░░░░░░   37.53 % 
+🌆 Daytime                17715 commits       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+🌃 Evening                22207 commits       █████████░░░░░░░░░░░░░░░░   37.52 % 
 🌙 Night                  4524 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -45,7 +45,7 @@ Wednesday                8989 commits        ████░░░░░░░�
 Thursday                 7487 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 Friday                   7345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 Saturday                 8674 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Sunday                   10064 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Sunday                   10068 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 ```
 
 
@@ -53,10 +53,10 @@ Sunday                   10064 commits       ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     54 mins             ███████████████████░░░░░░   76.28 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-SQL                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Dart                     2 hrs 10 mins       █████████████████████░░░░   85.64 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -76,7 +76,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 01:52:25 UTC
+ Last Updated on 27/07/2026 01:54:35 UTC
 <!--END_SECTION:waka-->
 
 <!---
