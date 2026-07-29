@@ -14,15 +14,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C180%20hrs%2028%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-414%20hrs%2014%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 739.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,960 Contributions in the Year 2026
+> 🏆 1,961 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -35,14 +31,14 @@
 ```text
 🌞 Morning                13712 commits       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
 🌆 Daytime                16583 commits       ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-🌃 Evening                20902 commits       █████████░░░░░░░░░░░░░░░░   37.61 % 
+🌃 Evening                20903 commits       █████████░░░░░░░░░░░░░░░░   37.61 % 
 🌙 Night                  4378 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   7522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Tuesday                  8264 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  8265 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 Wednesday                8483 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 Thursday                 6976 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
 Friday                   6880 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
@@ -55,33 +51,33 @@ Sunday                   9432 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 10 mins       ██████████████████████░░░   86.14 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Dart                     2 hrs               ██████████████████████░░░   87.37 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (74.55%)
+⏱ AI Coding Time: 1 hr 39 mins (72.16%)
 
-✍️ 746 lines written by AI, 3 lines written by hand (99.6% AI-written)
+✍️ 542 lines written by AI, 3 lines written by hand (99.45% AI-written)
 
-🔤 13,163,376 Input Tokens, 63,807 Output Tokens
+🔤 6,046,934 Input Tokens, 28,982 Output Tokens
 
-💵 $66.65 Estimated AI Cost This Week
+💵 $30.02 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 18 AI Prompts
+🧠 7 AI Sessions, 14 AI Prompts
 
-GPT                      484 lines           ████████████████░░░░░░░░░   64.79 % 
-Gemini                   263 lines           █████████░░░░░░░░░░░░░░░░   35.21 % 
+GPT                      280 lines           █████████████░░░░░░░░░░░░   51.57 % 
+Gemini                   263 lines           ████████████░░░░░░░░░░░░░   48.43 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📄 Detailed Prompter — average 1,123 characters per prompt
+🤖 AI-Driven — 99.45% of written lines came from AI
+📄 Detailed Prompter — average 846 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.93% of changed lines were hand-edited
+🚀 High AI Trust — 1.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -101,7 +97,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 02:01:59 UTC
+ Last Updated on 29/07/2026 01:59:40 UTC
 <!--END_SECTION:waka-->
 
 <!---
