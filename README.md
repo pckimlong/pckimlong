@@ -14,11 +14,15 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C180%20hrs%2028%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-414%20hrs%2014%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 739.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,961 Contributions in the Year 2026
+> 🏆 1,984 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,21 +33,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13712 commits       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-🌆 Daytime                16583 commits       ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-🌃 Evening                20903 commits       █████████░░░░░░░░░░░░░░░░   37.61 % 
-🌙 Night                  4378 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+🌞 Morning                13722 commits       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+🌆 Daytime                16596 commits       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+🌃 Evening                20904 commits       █████████░░░░░░░░░░░░░░░░   37.60 % 
+🌙 Night                  4378 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   7522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
 Tuesday                  8265 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Wednesday                8483 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Wednesday                8507 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 Thursday                 6976 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Friday                   6880 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Saturday                 8018 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Sunday                   9432 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Friday                   6880 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Saturday                 8018 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Sunday                   9432 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 
 
@@ -51,33 +55,31 @@ Sunday                   9432 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs               ██████████████████████░░░   87.37 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Dart                     1 hr 16 mins        ██████████████████████░░░   88.43 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (72.16%)
+⏱ AI Coding Time: 48 mins (55.52%)
 
-✍️ 542 lines written by AI, 3 lines written by hand (99.45% AI-written)
+✍️ 262 lines written by AI, 3 lines written by hand (98.87% AI-written)
 
-🔤 6,046,934 Input Tokens, 28,982 Output Tokens
+🔤 5,806,727 Input Tokens, 26,647 Output Tokens
 
-💵 $30.02 Estimated AI Cost This Week
+💵 $28.75 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 14 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-GPT                      280 lines           █████████████░░░░░░░░░░░░   51.57 % 
-Gemini                   263 lines           ████████████░░░░░░░░░░░░░   48.43 % 
+GPT                      262 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.45% of written lines came from AI
-📄 Detailed Prompter — average 846 characters per prompt
+🤖 AI-Driven — 98.87% of written lines came from AI
+📚 Verbose Prompter — average 1,914 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.27% of changed lines were hand-edited
+🚀 High AI Trust — 2.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -97,7 +99,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:59:40 UTC
+ Last Updated on 30/07/2026 01:58:51 UTC
 <!--END_SECTION:waka-->
 
 <!---
