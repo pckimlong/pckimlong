@@ -14,15 +14,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-415%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-415%20hrs%207%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 739.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,039 Contributions in the Year 2026
+> 🏆 2,043 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -34,20 +34,20 @@
 
 ```text
 🌞 Morning                15009 commits       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-🌆 Daytime                18148 commits       ████████░░░░░░░░░░░░░░░░░   30.10 % 
-🌃 Evening                22580 commits       █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌙 Night                  4564 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+🌆 Daytime                18148 commits       ████████░░░░░░░░░░░░░░░░░   30.09 % 
+🌃 Evening                22581 commits       █████████░░░░░░░░░░░░░░░░   37.44 % 
+🌙 Night                  4569 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   7989 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 Tuesday                  8965 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Wednesday                9392 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Wednesday                9392 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 Thursday                 7627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 Friday                   7458 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Saturday                 8742 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Sunday                   10128 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Saturday                 8743 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Sunday                   10133 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 ```
 
 
@@ -55,32 +55,34 @@ Sunday                   10128 commits       ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 mins             █████████████░░░░░░░░░░░░   53.69 % 
-Other                    18 mins             █████████░░░░░░░░░░░░░░░░   34.49 % 
-Dart                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-PHP                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Dart                     5 hrs 51 mins       ███████████████░░░░░░░░░░   58.34 % 
+PHP                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Markdown                 1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+TypeScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (95.33%)
+⏱ AI Coding Time: 8 hrs 51 mins (88.22%)
 
-✍️ 130 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,019 lines written by AI, 476 lines written by hand (92.67% AI-written)
 
-🔤 2,717,697 Input Tokens, 22,782 Output Tokens
+🔤 34,525,779 Input Tokens, 177,294 Output Tokens
 
-💵 $14.27 Estimated AI Cost This Week
+💵 $165.28 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 18 AI Prompts
+🧠 51 AI Sessions, 180 AI Prompts
 
-GPT                      139 lines           █████████████████████████   100.00 % 
+GPT                      3,180 lines         █████████████░░░░░░░░░░░░   50.09 % 
+Gemini                   3,168 lines         ████████████░░░░░░░░░░░░░   49.91 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,538 characters per prompt
+🤖 AI-Driven — 92.67% of written lines came from AI
+📄 Detailed Prompter — average 712 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 9.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -100,7 +102,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 03:13:48 UTC
+ Last Updated on 09/08/2026 03:21:36 UTC
 <!--END_SECTION:waka-->
 
 <!---
