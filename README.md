@@ -14,40 +14,40 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C188%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-415%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-421%20hrs%2017%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 739.3 kB Used in GitHub's Storage 
+> 📦 739.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,043 Contributions in the Year 2026
+> 🏆 2,123 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
  > 
-> 🔑 112 Private Repositories 
+> 🔑 113 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15009 commits       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-🌆 Daytime                18148 commits       ████████░░░░░░░░░░░░░░░░░   30.09 % 
-🌃 Evening                22581 commits       █████████░░░░░░░░░░░░░░░░   37.44 % 
-🌙 Night                  4569 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+🌞 Morning                13995 commits       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌆 Daytime                17073 commits       ████████░░░░░░░░░░░░░░░░░   30.06 % 
+🌃 Evening                21302 commits       █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌙 Night                  4435 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   7989 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Tuesday                  8965 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Wednesday                9392 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Thursday                 7627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Friday                   7458 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Saturday                 8743 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Sunday                   10133 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Monday                   7605 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Tuesday                  8525 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Wednesday                8900 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Thursday                 7118 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Friday                   7004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Saturday                 8118 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Sunday                   9535 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 ```
 
 
@@ -55,44 +55,44 @@ Sunday                   10133 commits       ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     5 hrs 51 mins       ███████████████░░░░░░░░░░   58.34 % 
-PHP                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Markdown                 1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-TypeScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Dart                     8 hrs 39 mins       ████████████████░░░░░░░░░   62.08 % 
+Markdown                 1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+PHP                      1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+TypeScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 51 mins (88.22%)
+⏱ AI Coding Time: 12 hrs 3 mins (86.49%)
 
-✍️ 6,019 lines written by AI, 476 lines written by hand (92.67% AI-written)
+✍️ 7,702 lines written by AI, 516 lines written by hand (93.72% AI-written)
 
-🔤 34,525,779 Input Tokens, 177,294 Output Tokens
+🔤 34,715,647 Input Tokens, 216,777 Output Tokens
 
-💵 $165.28 Estimated AI Cost This Week
+💵 $171.36 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 180 AI Prompts
+🧠 71 AI Sessions, 220 AI Prompts
 
-GPT                      3,180 lines         █████████████░░░░░░░░░░░░   50.09 % 
-Gemini                   3,168 lines         ████████████░░░░░░░░░░░░░   49.91 % 
+Gemini                   4,246 lines         █████████████░░░░░░░░░░░░   52.60 % 
+GPT                      3,826 lines         ████████████░░░░░░░░░░░░░   47.40 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.67% of written lines came from AI
-📄 Detailed Prompter — average 712 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 9.66% of changed lines were hand-edited
+🤖 AI-Driven — 93.72% of written lines came from AI
+📄 Detailed Prompter — average 642 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 8.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     98 repos            ██████████████████░░░░░░░   70.50 % 
-TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-C++                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-PLpgSQL                  4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Dart                     99 repos            ██████████████████░░░░░░░   70.71 % 
+TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C++                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+PLpgSQL                  4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 
@@ -102,7 +102,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 03:21:36 UTC
+ Last Updated on 10/08/2026 03:32:16 UTC
 <!--END_SECTION:waka-->
 
 <!---
