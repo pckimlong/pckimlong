@@ -14,13 +14,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 739.8 kB Used in GitHub's Storage 
+> 📦 740.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,147 Contributions in the Year 2026
+> 🏆 2,159 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,21 +29,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14003 commits       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-🌆 Daytime                17087 commits       ████████░░░░░░░░░░░░░░░░░   30.07 % 
-🌃 Evening                21304 commits       █████████░░░░░░░░░░░░░░░░   37.49 % 
-🌙 Night                  4435 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+🌞 Morning                15041 commits       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+🌆 Daytime                18224 commits       ████████░░░░░░░░░░░░░░░░░   30.14 % 
+🌃 Evening                22619 commits       █████████░░░░░░░░░░░░░░░░   37.41 % 
+🌙 Night                  4581 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   7628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Tuesday                  8526 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Wednesday                8900 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Thursday                 7118 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Friday                   7004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Saturday                 8118 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Sunday                   9535 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Monday                   8020 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Tuesday                  8983 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Wednesday                9411 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Thursday                 7631 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Friday                   7469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Saturday                 8779 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Sunday                   10172 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
 ```
 
 
@@ -53,11 +51,11 @@ Sunday                   9535 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     11 hrs 45 mins      ████████████████░░░░░░░░░   64.76 % 
-Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-PHP                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-TypeScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Dart                     15 hrs 8 mins       █████████████████░░░░░░░░   67.83 % 
+JSON                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+PHP                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -77,7 +75,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 03:24:24 UTC
+ Last Updated on 12/08/2026 03:40:32 UTC
 <!--END_SECTION:waka-->
 
 <!---
