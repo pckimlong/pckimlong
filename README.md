@@ -16,24 +16,24 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 744.8 kB Used in GitHub's Storage 
+> 📦 745.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,322 Contributions in the Year 2026
+> 🏆 2,335 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
  > 
-> 🔑 114 Private Repositories 
+> 🔑 115 Private Repositories 
  > 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     100 repos           ██████████████████░░░░░░░   70.92 % 
-TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-C++                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-PLpgSQL                  4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Dart                     100 repos           ██████████████████░░░░░░░   70.42 % 
+TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+C++                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+PLpgSQL                  4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 
@@ -43,7 +43,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 05:47:15 UTC
+ Last Updated on 03/09/2026 05:54:16 UTC
 <!--END_SECTION:waka-->
 
 <!---
