@@ -29,10 +29,10 @@
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     101 repos           ██████████████████░░░░░░░   70.63 % 
-TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-C++                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-PLpgSQL                  4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Dart                     100 repos           ██████████████████░░░░░░░   70.42 % 
+TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+C++                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+PLpgSQL                  4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
@@ -43,7 +43,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 06:17:04 UTC
+ Last Updated on 16/09/2026 05:59:33 UTC
 <!--END_SECTION:waka-->
 
 <!---
