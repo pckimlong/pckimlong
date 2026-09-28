@@ -16,9 +16,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 748.8 kB Used in GitHub's Storage 
+> 📦 749.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,585 Contributions in the Year 2026
+> 🏆 2,742 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,10 +29,10 @@
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     101 repos           ██████████████████░░░░░░░   70.63 % 
+Dart                     102 repos           ██████████████████░░░░░░░   71.33 % 
 TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 C++                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-PLpgSQL                  4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+PLpgSQL                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
@@ -43,7 +43,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pckimlong/pckimlong/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 06:38:16 UTC
+ Last Updated on 28/09/2026 06:45:55 UTC
 <!--END_SECTION:waka-->
 
 <!---
